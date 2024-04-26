@@ -7,6 +7,7 @@
 - Airflow Local permita instalar dependências python no processo de build do docker
 - Utilizar o DEV Container para desenvolvimento
 - Terraform para criar a infra na AWS usando usando o MWAA
+- Github actions para automatizar a criação e alteração da infra via terraform
 
 ## Processos
 ### Docker Compose
