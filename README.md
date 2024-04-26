@@ -18,3 +18,7 @@ Com o Docker instalado, com o repositório clonado na sua maquina, navegue pelo 
 Após execute
 
 `docker-compose up -d`
+
+Após temos que fazer o Build para instalar as dependencias python. Ou seja, executar o Dockerfile
+
+`docker-compose build --no-cache`
